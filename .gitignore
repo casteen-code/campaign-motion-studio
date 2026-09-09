@@ -1,0 +1,7 @@
+node_modules/
+_site/
+renders/
+*.campaign.local.json
+*.mp4
+*.webm
+.DS_Store
